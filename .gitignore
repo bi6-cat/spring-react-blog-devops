@@ -1,0 +1,7 @@
+.DS_Store
+*.log
+.env
+frontend/node_modules
+backend/target
+infra/terraform/.terraform/
+*.tfstate*
